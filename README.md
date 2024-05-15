@@ -75,4 +75,4 @@ Project is in progress
 * Many thanks to Scaler
 
 ### Contact
-Created by [Pratham Kumar](https://www.linkedin.com/in/pratham-kumar-111237192/) - feel free to contact me!
+Created by Yash Patni
